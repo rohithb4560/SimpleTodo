@@ -1,0 +1,11 @@
+header>h1{
+    text-align: center;
+    
+    letter-spacing: 10px;
+    color: red;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-image:linear-gradient(to right, rgb(166, 202, 100),rgb(214, 209, 200),rgb(111, 236, 111));
+}
